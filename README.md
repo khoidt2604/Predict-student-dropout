@@ -1,6 +1,6 @@
 # 🎓 Predict Student Dropout
 
-This repository contains my R code and analysis for predicting student dropout using multiple machine learning models, as part of an academic assignment.
+This repository contains my R code and analysis for predicting student dropout using multiple machine learning models.
 
 ---
 
