@@ -46,7 +46,7 @@ Each model's performance was evaluated using accuracy and confusion matrices.
 
 ## 📁 Files
 
-- `Khoi_30889472_Assignment3_code.Rmd`: R Markdown file containing all data preprocessing, model training, and evaluation steps.
+- `Predict_student_drop_out.Rmd`: R Markdown file containing all data preprocessing, model training, and evaluation steps.
 
 ---
 
